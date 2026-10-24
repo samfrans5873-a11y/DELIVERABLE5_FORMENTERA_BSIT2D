@@ -1,0 +1,1 @@
+UPDATE _Users_ SET status = 'APPROVED' WHERE username = 'admin_boss';
